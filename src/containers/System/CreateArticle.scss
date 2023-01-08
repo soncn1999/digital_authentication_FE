@@ -1,0 +1,10 @@
+.preview-thumbnail-btn {
+    padding: 10px 20px;
+    background-color: #f7d800;
+    border-radius: 5px;
+    cursor: pointer;
+    &:hover {
+        color: #45c3d2;
+        opacity: 0.9;
+    }
+}

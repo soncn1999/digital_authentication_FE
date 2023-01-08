@@ -1,0 +1,26 @@
+.demo-container {
+    margin-top: 20px;
+    .demo-form {
+    }
+    .demo-show {
+    }
+    .avt-container {
+        min-height: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .avt-upload__btn {
+        margin: auto;
+        width: 140px;
+        background-color: #f7d800;
+        padding: 10px 20px;
+        border-radius: 10px;
+    }
+    .arr-item {
+        line-height: 150px;
+    }
+    .handle-picker-date input {
+        width: 100%;
+    }
+}
